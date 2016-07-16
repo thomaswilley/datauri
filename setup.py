@@ -7,7 +7,7 @@ setup(
     author='@thomaswilley',
     description=('Convert a file into a Data URI in python3 w/no other dependencies.'),
     license='MIT',
-    packages=['datauri'],
+    py_modules=['datauri'],
     scripts=['datauri.py'],
     entry_points={'console_scripts': [
         'datauri = datauri:main',
