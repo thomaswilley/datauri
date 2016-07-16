@@ -6,7 +6,7 @@ A simple zero dependency python3 script to convert files (or content) into Data 
 
 ```bash
 $ pip install git+https://github.com/thomaswilley/datauri.git
-$ datauri.py -h
+$ datauri -h
 ```
 
 ## Author
