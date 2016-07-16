@@ -1,8 +1,5 @@
 from setuptools import setup
 
-version = __import__('django').get_version()
-
-
 setup(
     name='datauri',
     version='0.1.0',
